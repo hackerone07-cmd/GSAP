@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: white;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+}
+body{
+    background-color: #f5f3f3;
+   overflow-x: hidden;
+}
+/* .box {
+    height: 300px;
+    width: 300px;
+    background-color: aqua;
+}
+.box2{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(23, 22, 97);
+}
+.box3{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(25, 222, 78);
+} */
+ /* .nav{
+   
+    display: flex;
+    align-items: center;
+    justify-content: space-between  ;
+    padding: 1rem 4rem;
+ } */
+ /* .part2{
+
+    display: flex;
+    gap: 50px;
+
+ } */
+
+
+ /* .page1{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(69, 231, 85);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ }
+
+ .page2{
+    height: 100%;
+    padding: 5vw 0;
+    width: 100%;
+    background-color: rgb(68, 157, 208);
+    /* display: flex; */
+    /* align-items: center;
+    justify-content: center;
+    flex-direction: column; */
+    /* gap: 10px; */
+/*  
+ .page3{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(177, 22, 48);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+ }
+ .box{
+    height: 300px;
+    width: 300px;
+    background-color: crimson;
+ }
+
+ h1{
+   font-size: 30vw;
+   font-weight: 500;
+   text-transform: uppercase;
+   font-family: 'Gilroy'; */
+/* 
+ }  */
+
+ .string{
+   height: 300px;
+   width: 100%;
+   background-color: aqua;
+
+ }
