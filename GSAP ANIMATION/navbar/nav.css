@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "gilroy";
+}
+html,body{
+    height: 100%;
+    width: 100%;
+
+}
+
+body{
+    overflow-x: hidden;
+}
+.main{
+    height: 100%;
+    width: 100%;
+    background-image: url(https://images.pexels.com/photos/531756/pexels-photo-531756.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+   background-position: center;
+    background-size: cover;
+}
+
+.nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+    padding: 40px 50px;
+    color: white;
+}
+.nav h2{
+    font-size: 30px;
+
+}
+.nav i{
+    font-size: 30px;
+    font-weight: normal;
+    cursor: pointer;
+}
+.full{
+    height: 100%;
+    width: 40%;
+    background-color: rgba(255, 255, 255, 0.505);
+    position: absolute;
+    top: 0;
+    right: -40%;
+    backdrop-filter: blur(10px);
+    padding: 100px 50px;
+}
+
+.full h4{
+    font-size: 50px;
+    font-weight: 600;
+    margin-top: 5px;
+}
+.full i{
+    position: absolute;
+    top: 5%;
+    right: 10%;
+    background-color: white;
+    border-radius: 50px;
+    padding: 5px;
+    font-size: 20px;
+    font-weight: 500;
+    cursor: pointer;
+}
